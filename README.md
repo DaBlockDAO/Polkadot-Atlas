@@ -1,5 +1,5 @@
 # Polkadot-Atlas
-List of +1000 curated dapps, tools, talks, ecosystem agents &amp; resources native to the Polkadot ecosystem.
+-- List of +1000 curated dapps, tools, talks, ecosystem agents &amp; resources native to the Polkadot ecosystem.
 
 | Logo | Element                 | Specifications   | Category | SubCategory 1                    | Web | Github | By LV: 15akZwzufEzFzfh18y4Q81Ci8TXyvH6hyUkRrxJED2MjEYhe | Additional Info                                                                 | Linkedin                    | Related Legal Entity / Team | Related L.E./T. 2 | Related Token/s | Ambassador Program | Community Channels | Docs | Related Content | YT Video |
 |------|-------------------------|------------------|----------|----------------------------------|-----|--------|--------------------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|-----------------------------|--------------------|-----------------|-------------------|-------------------|------|-----------------|----------|
